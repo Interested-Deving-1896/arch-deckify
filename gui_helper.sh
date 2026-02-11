@@ -273,7 +273,7 @@ fi' | sudo tee /usr/bin/steamos-session-select > /dev/null
                     zenity --question --text="The latest SteamOS KDE presets will be installed from the link below:
 https://steamdeck-packages.steamos.cloud/archlinux-mirror/jupiter-main/os/x86_64/.
 This includes themes like 'Vapor' and the 'Add to Steam' option for right-clicked apps, along with other settings that mirror SteamOS.
-    Note: This is designed for SteamOS and may cause issues on your device.
+    Note: This is designed for SteamOS and may cause issues on your device. It can break some system settings.
 ⚠️ The downloaded file will merge with your system’s root directories (e.g., /etc/, /usr/). Conflicts may disrupt your system. Please check compatibility before proceeding.
 Are you sure you want to continue?"
 
